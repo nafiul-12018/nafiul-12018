@@ -39,8 +39,7 @@
   <img src="https://user-images.githubusercontent.com/6388707/236696295-69c7c0ac-7732-4f9b-9277-279aaf9e6c11.png" title="HAProxy" alt="HAProxy" width="40" />
 
   <!-- Kong -->
-  <img src="https://avatars.githubusercontent.com/u/21050094?s=200&v=4" title="Kong" alt="Kong" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/21050094?s=200&v=4" title="Kong" alt="Kong" width="40" />
+   <img src="kong.svg" title="Kong" alt="Kong" width="40" />
 </p>
 
 ### ☁️ DevOps & Cloud
