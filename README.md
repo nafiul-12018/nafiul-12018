@@ -17,10 +17,42 @@
 ### 🛠️ Main Skills
 
 <!-- Base icons from skillicons.dev -->
-[![Skills](https://skillicons.dev/icons?i=go,cpp,js,linux,docker,kubernetes,git,github,postgres,gcp,redis,kafka,rabbitmq,terraform,ansible,prometheus,grafana)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,cpp,cs,linux,docker,kubernetes,git,github,postgres,gcp,redis,kafka,rabbitmq,terraform,ansible,prometheus,grafana)](https://skillicons.dev)
 
 <!-- Supplementary icons (manually tested on GitHub) -->
 ---
+
+### 🔧 Core Technologies
+
+<p align="center">
+
+  <!-- Languages, Dev Tools, Messaging -->
+  <img src="https://skillicons.dev/icons?i=go,cpp,cs,linux,git,github,redis,kafka,rabbitmq" />
+
+  <!-- Centrifugo (Manually uploaded & tested fallback) -->
+  <img src="https://user-images.githubusercontent.com/12227191/236746377-f6be3426-0e10-4d8a-8676-96c8f901c71f.png" title="Centrifugo" alt="Centrifugo" width="40" />
+
+  <!-- gRPC -->
+  <img src="https://img.icons8.com/color/48/grpc.png" title="gRPC" alt="gRPC" width="40" />
+
+  <!-- HAProxy -->
+  <img src="https://user-images.githubusercontent.com/6388707/236696295-69c7c0ac-7732-4f9b-9277-279aaf9e6c11.png" title="HAProxy" alt="HAProxy" width="40" />
+
+  <!-- Kong -->
+  <img src="https://avatars.githubusercontent.com/u/21050094?s=200&v=4" title="Kong" alt="Kong" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/21050094?s=200&v=4" title="Kong" alt="Kong" width="40" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,redis,kafka,rabbitmq,terraform,ansible" />
+</p>
+
+### 📊 Monitoring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+  <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" title="Grafana Loki" alt="Grafana Loki" width="40" />
+</p>
 
 ### ☁️ Cloud & Infrastructure Skills
 
