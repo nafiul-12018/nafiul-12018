@@ -33,13 +33,13 @@
   <img src="https://user-images.githubusercontent.com/12227191/236746377-f6be3426-0e10-4d8a-8676-96c8f901c71f.png" title="Centrifugo" alt="Centrifugo" width="40" />
 
   <!-- gRPC -->
-  <img src="https://img.icons8.com/color/48/grpc.png" title="gRPC" alt="gRPC" width="40" />
+  <img src="grpc.svg" title="gRPC" alt="gRPC" width="80" />
 
   <!-- HAProxy -->
-  <img src="https://user-images.githubusercontent.com/6388707/236696295-69c7c0ac-7732-4f9b-9277-279aaf9e6c11.png" title="HAProxy" alt="HAProxy" width="40" />
+  <img src="envoy.svg" title="Envoy" alt="Envoy" width="80" />
 
   <!-- Kong -->
-   <img src="kong.svg" title="Kong" alt="Kong" width="40" />
+   <img src="kong.svg" title="Kong" alt="Kong" width="80" />
 </p>
 
 ### ☁️ DevOps & Cloud
