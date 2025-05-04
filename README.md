@@ -1,62 +1,69 @@
-# Hi there, I'm Nafiul Bari Khan 👋
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=90C6B9&width=750&lines=Hello%2C+it's+Nafiul+Bari+Khan;Backend+Engineer+%7C+Go%2C+K8s%2C+GCP%2C+Kafka%2C+RabitMQ%2C+Redis" alt="Backend Engineer | Go, K8s, GCP, Kafka, RabbitMQ, Redis"/>
+</a>
 
-I'm a **Software Engineer** with a strong foundation in **Go (Golang)**, **C++**, and **system design**. I thrive on building clean, scalable, and testable backend systems—often from scratch. I'm also a problem solver at heart, constantly sharpening my skills through platforms like LeetCode.
+<div>
+  <a href="https://github.com/nafiul-12018">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nafiul-12018&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-12018&layout=compact&langs_count=10&theme=tokyonight"/>
+ </div>
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=nafiul-12018&row=2&column=3&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiul-12018&theme=tokyonight" />
+</div>
+
+---
+### 🛠️ Main Skills
+
+<!-- Base icons from skillicons.dev -->
+[![Skills](https://skillicons.dev/icons?i=go,cpp,js,linux,docker,kubernetes,git,github,postgres,gcp,redis,kafka,rabbitmq,terraform,ansible,prometheus,grafana)](https://skillicons.dev)
+
+<!-- Supplementary icons (manually tested on GitHub) -->
+---
+
+### ☁️ Cloud & Infrastructure Skills
+
+- 🔧 **Bare-metal Kubernetes** setup and cluster orchestration
+- 📦 **Terraform**, **Ansible** for infra-as-code and automation
+- ⚙️ **Docker**, **gRPC**, **Protobuf**, **Redis**, **Kafka**, **RabbitMQ**
+- 🔁 **Centrifugo**, **HAProxy**, **Kong**, **Envoy Proxy**
+- 📊 Monitoring with **Prometheus**, **Grafana**, and **Grafana Loki**
+- ☁️ Deployment in hybrid environments including **GCP** and **LocalCloud (Pace Cloud)**
 
 ---
 
-## 💡 What I Do
+### 🧠 Problem Solving & Engineering Projects
 
-- 🏗️ Architect and implement robust **REST APIs** with Go (Fiber, chi)
-- 🔍 Dive deep into **algorithmic challenges** (Data Structures, LeetCode in C++)
-- 🧪 Write **unit & integration tests** with mocking and dependency injection
-- 🚀 Ship microservices with **Docker**, manage deployments with **Kubernetes**
-- 🧠 Learn and explore new technologies that improve backend scalability
+- 🔹 [LeetCode (C++)](https://github.com/nafiul-12018/LeetCode)
+- 🔹 [Rest API Boilerplate in Go](https://github.com/nafiul-12018/RestApi)
 
 ---
 
-## 🔧 Tech Stack
+### 📈 GitHub Activity Graph
 
-| Category       | Tools & Frameworks |
-| -------------- | ------------------ |
-| **Languages**  | Go, C++, JavaScript |
-| **Frameworks** | Fiber, chi, Express |
-| **Databases**  | PostgreSQL, MongoDB |
-| **Tools**      | Git, Docker, Kubernetes |
-| **Others**     | Redis, REST, gRPC |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul-12018&custom_title=Nafiul%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=58A6FF&line=238636&point=58A6FF&area_color=161B22&title_color=58A6FF&area=true" alt="GitHub Activity Graph" />
 
 ---
 
-## 📌 Featured Projects
+### 📫 Let’s Connect
 
-### 🔹 [RestApi](https://github.com/nafiul-12018/RestApi)
-A clean, scalable REST API boilerplate in Go, featuring DI, mocking, SOLID principles, and comprehensive testing.
-
-### 🔹 [LeetCode](https://github.com/nafiul-12018/LeetCode)
-My daily dive into algorithmic problems, solved in C++ with well-commented approaches and optimized logic.
-
----
-
-## 📈 GitHub Stats
-
-![Nafiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafiul-12018&show_icons=true&theme=radical&hide_rank=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-12018&layout=compact&theme=radical)
-
----
-
-## 🧠 Currently Learning
-
-- 🔄 Event-driven architecture with **gRPC** and message queues
-- 🧪 Test-driven development in Go
-- ⚙️ CI/CD pipelines with GitHub Actions and Docker
+<p align="left">
+<a href="https://www.linkedin.com/in/nafiul-bari-khan-b33825142/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafiul linkedin" height="30" width="40" />
+</a>
+<!-- Medium -->
+  <a href="https://medium.com/@barikhan.hillol" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="30" width="40" />
+  </a>
+  
+<a href="mailto:barikhan.hillol@gmail.com" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/nafiul-bari-khan-b33825142/)
-- 📧 Email: nafiul@techetronventures.com
-
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nafiul-12018&label=Profile%20views&color=0e75b6&style=flat" alt="nafiul-12018" /> 
+</p>
