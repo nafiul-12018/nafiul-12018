@@ -13,14 +13,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiul-12018&theme=tokyonight" />
 </div>
 
----
-### 🛠️ Main Skills
-
-<!-- Base icons from skillicons.dev -->
-[![Skills](https://skillicons.dev/icons?i=go,cpp,cs,linux,docker,kubernetes,git,github,postgres,gcp,redis,kafka,rabbitmq,terraform,ansible,prometheus,grafana)](https://skillicons.dev)
-
-<!-- Supplementary icons (manually tested on GitHub) -->
----
 
 ### 🔧 Core Technologies
 
@@ -30,21 +22,21 @@
   <img src="https://skillicons.dev/icons?i=go,cpp,cs,linux,git,github,redis,kafka,rabbitmq" />
 
   <!-- Centrifugo (Manually uploaded & tested fallback) -->
-  <img src="https://user-images.githubusercontent.com/12227191/236746377-f6be3426-0e10-4d8a-8676-96c8f901c71f.png" title="Centrifugo" alt="Centrifugo" width="40" />
+  <img src="haproxy.png" title="HAProxy" alt="HAProxy" width="120" />
 
   <!-- gRPC -->
-  <img src="grpc.svg" title="gRPC" alt="gRPC" width="80" />
+  <img src="grpc.png" title="gRPC" alt="gRPC" width="80" />
 
   <!-- HAProxy -->
-  <img src="envoy.svg" title="Envoy" alt="Envoy" width="80" />
+  <img src="envoy.svg" title="Envoy" alt="Envoy" width="90" />
 
   <!-- Kong -->
-   <img src="kong.svg" title="Kong" alt="Kong" width="80" />
+   <img src="kong.svg" title="Kong" alt="Kong" width="90" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,redis,kafka,rabbitmq,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,kafka,rabbitmq,terraform,ansible" />
 </p>
 
 ### 📊 Monitoring
